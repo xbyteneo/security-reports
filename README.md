@@ -7,11 +7,11 @@ This collection includes formal and informal security assessments focused on the
 
 ## Reports
 
-| Project               | Date         | Type                      | Status       | Report Link                                            |
-|-----------------------|--------------|---------------------------|--------------|--------------------------------------------------------|
-| PasswordStore         | 2025-08-07   | Full Audit                | Completed    | [View Report](./reports/2025-08-07-password-audit.pdf) |
-| PuppyRaffle           | 2025-09-25   | Full Audit                | Completed    | [View Report](./reports/2025-08-07-puppyraffle-audit.pdf) |
-| *(More coming soon)*  | -            | -                         | -            | -                                                      |
+| Project               | Date         | Type                      | Status       | Report Link                                                |
+|-----------------------|--------------|---------------------------|--------------|------------------------------------------------------------|
+| PasswordStore         | 2025-08-07   | Full Audit                | Completed    | [View Report](./reports/2025-08-07-password-audit.pdf)     |
+| PuppyRaffle           | 2025-09-25   | Full Audit                | Completed    | [View Report](./reports/2025-09-25-puppy-raffle-audit.pdf) |
+| *(More coming soon)*  | -            | -                         | -            | -                                                          |
 
 ---
 
