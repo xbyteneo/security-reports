@@ -10,7 +10,8 @@ This collection includes formal and informal security assessments focused on the
 | Project               | Date         | Type                      | Status       | Report Link                                                |
 |-----------------------|--------------|---------------------------|--------------|------------------------------------------------------------|
 | PasswordStore         | 2025-08-07   | Full Audit                | Completed    | [View Report](./reports/2025-08-07-password-audit.pdf)     |
-| PuppyRaffle           | 2025-09-25   | Full Audit                | Completed    | [View Report](./reports/2025-09-25-puppy-raffle-audit.pdf) |
+| PuppyRaffle           | 2025-08-25   | Full Audit                | Completed    | [View Report](./reports/2025-08-25-puppy-raffle-audit.pdf) |
+| T-Swap                | 2025-09-23   | Full Audit                | Completed    | [View Report](./reports/2025-09-23-tswap-audit.pdf)       |
 | *(More coming soon)*  | -            | -                         | -            | -                                                          |
 
 ---
